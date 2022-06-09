@@ -69,7 +69,7 @@ if(isset($_POST['tambah'])) {
     </div>
   </div>
 
-</div>
+x </div>
 
     <!-- Optional JavaScript; choose one of the two! -->
 
